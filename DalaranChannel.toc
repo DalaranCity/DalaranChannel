@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: Dalaran Channel
+## Version: 1.0.0
+## Notes: Auto-join Dalaran guild channel
+## Notes-zhCN: 自动加入「Dalaran」公会频道
+## Notes-zhTW: 自動加入「Dalaran」公會頻道
+## Author: Sparanoid
+
+DalaranChannel.lua
