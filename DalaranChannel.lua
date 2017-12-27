@@ -15,7 +15,7 @@ function DC__join (channel, password, frameId, hasVoice)
   SetChatColorNameByClass(index, 1);
 
   -- print channel message
-  DEFAULT_CHAT_FRAME:AddMessage("Dalarans: 公会开放频道已加入，输入 /" .. index .. " 即可跨公会聊天", 40/255, 255/255, 140/255);
+  DEFAULT_CHAT_FRAME:AddMessage("Dalaran: 公会开放频道已加入，输入 /" .. index .. " 即可跨公会聊天", 40/255, 255/255, 140/255);
 end
 
 -- TODO: PLAYER_ENTERING_WORLD and PLAYER_LOGIN make custom channel joins
